@@ -1,0 +1,5 @@
+{
+  "name": "NodeJS OAuth Track - Level 1",
+  "description": "A React application demonstrating the frontend for a 'Login with Google' feature. It simulates fetching a user profile and visually represents storing it, as per the user's request image.",
+  "requestFramePermissions": []
+}
